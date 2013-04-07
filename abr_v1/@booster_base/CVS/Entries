@@ -1,0 +1,17 @@
+/booster_base.m/1.1/Mon Jan 12 16:48:08 1998//
+/display.m/1.1/Mon Jan 12 09:11:45 1998//
+/get_boost_steps.m/1.1/Thu Dec 18 15:07:05 1997//
+/get_boosted_learner.m/1.1/Mon Jan  5 11:06:47 1998//
+/get_param.m/1.1/Tue Jun 23 12:44:31 1998//
+/get_proto.m/1.1/Thu Dec 18 15:40:20 1997//
+/get_vote_weight.m/1.1/Mon Jan  5 09:55:57 1998//
+/get_vote_weights.m/1.1/Mon Jan  5 09:53:42 1998//
+/set_boost_steps.m/1.1/Thu Dec 18 15:06:25 1997//
+/set_boosted_learner.m/1.1/Mon Jan  5 11:09:08 1998//
+/set_param.m/1.1/Mon Dec 22 14:26:00 1997//
+/set_proto.m/1.1/Thu Dec 18 15:40:13 1997//
+/set_vote_weights.m/1.1/Mon Jan  5 10:11:10 1998//
+/train_weak.m/1.1/Thu Mar 26 13:13:44 1998//
+/subsasgn.m/1.1/Sat Oct  2 06:59:14 1999//
+/subsref.m/1.1/Sat Oct  2 06:59:14 1999//
+D

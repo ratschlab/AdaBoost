@@ -1,0 +1,63 @@
+This program is granted free of charge for research and education
+purposes. However you must obtain a license from Fraunhofer FIRST 
+in Berlin to use it for commercial purposes.
+
+Scientific results produced using the software provided shall
+acknowledge the use of the rbf network implementation provided 
+by Gunnar Raetsch.
+Please cite one of the following papers:
+
+@article{RaeOnoMue01a,
+  author =   {G.~R{\"a}tsch and T.~Onoda and K.--R.~M{\"u}ller},
+  title =    "Soft Margins for {A}da{B}oost",
+  year =     2001,
+  journal =  "Machine Learning",
+  note =     "also NeuroCOLT Technical Report NC-TR-1998-021",
+  publisher =    "Kluwer Academic Publishers",
+  month =    mar,
+  volume =   42,
+  number =   3,
+  pages =    "287--320",
+}
+
+@Inproceedings{MueSmoRaeSchKohVap99,
+   author    = "K.-R.~{M\"uller} and A.~Smola and G.~{R\"atsch} and
+                  B.~{Sch\"ol\-kopf} and J.~Kohlmorgen and V.~Vapnik",
+   title     = "Predicting Time Series with Support Vector Machines",
+  publisher = {{MIT} Press},
+  year =	 {1999},
+  pages = {243--254},
+  booktitle =	{Advances in Kernel Methods --- Support Vector Learning},
+  editor =	 {B.~Sch\"olkopf and C.J.C.~Burges and A.J.~Smola},
+  address =	 {Cambridge, MA}
+}
+
+If you plan to use it for non-scientific purposes, don't hesitate to
+contact me.
+
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT
+WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER
+PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM, BE LIABLE TO YOU FOR
+DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM
+(INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED
+INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF
+THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER
+OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+Gunnar Raetsch 
+
+Last updated 30.05.05
+
+
