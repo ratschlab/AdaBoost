@@ -1,0 +1,14 @@
+
+mex -O design_rbf_c.c design_rbf.nolapack.c -output design_rbf_c7
+mex -O rbfgrad.c -output rbfgrad
+mex -O rbfgrad_w.c
+mex -O rbfgrad_lin_w.c
+mex -O rbfgrad_exp_w.c
+mex -O rbfgrad_exp_2w.c
+mex -O rbfgrad_wl.c
+mex -O rbfgrad_std.c
+mex -O rbfgradX.c
+mex -O rbfgrad2X.c
+mex -O rbfgrad2X_mu.c
+mex -O rbfgrad2X_muw.c
+cp design_rbf.mex* rbfgrad_w.mex* ../@rbf_net_w/private/

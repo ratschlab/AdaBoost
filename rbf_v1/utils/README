@@ -1,0 +1,11 @@
+
+mex -O bin5/sqdist_c.c bin5/sqdist_.c -output bin5/sqdist_c7
+mex -O bin5/ht_h_lambda_c.c bin5/ht_h_lambda.c -output bin5/ht_h_lambda_c7 
+
+mex -O bin5/ls_solve.c bin5/ht_h_lambda.c bin5/linsys_solve.c -DLINSYS_SOLVE_NOMEX -DMATR_MULT_AT_B_NOMEX bin5/matr_mult_At_b.c
+mex -O bin5/linsys_solve.c -output bin5/linsys_solve
+mex -O bin5/matr_mult_At_b.c -output bin5/matr_mult_At_b
+
+cmex -O bin5/ls_solve_w.c bin5/ht_h_lambda_w.c bin5/linsys_solve.c -DLINSYS_SOLVE_NOMEX -DMATR_MULT_AT_B_NOMEX bin5/matr_mult_At_b_w.c  -output bin5/ls_solve_w
+
+cp bin5/ls_solve.mex* bin5/ls_solve_w.mex* ../@rbf_net_w/private

@@ -1,0 +1,7 @@
+
+mex -O clustknb_new_c.c clustknb_new.c ../utils2/sqdist_.c -output clustknb_new_c7
+#mex -O -DMULTI_CPU clustknb_new_c.c clustknb_new_float.c ../utils/sqdist_float.c -output clustknb_new_float_c7 
+mex -O clustknb_new_w_c.c clustknb_new_w.c ../utils/sqdist_.c -output clustknb_new_w_c7 
+
+cp clustknb_new_w_c7.mex* ../@rbf_net_w/private/
+
